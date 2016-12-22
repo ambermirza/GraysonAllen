@@ -4,10 +4,15 @@ p {
   color: black;
 }
 
-#answer {
+h1 {
   font-family: Arial, sans-serif;
   text-align: center;
   color: #00009c;
+}
+
+#answer {
+  font-family: Arial, sans-serif;
+  text-align: center;
   font-weight: bold;
   font-size: 120pt;
   margin-top: 15%;
