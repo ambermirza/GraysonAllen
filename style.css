@@ -1,0 +1,11 @@
+p {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: blue;
+  font-size: 120pt;
+  font-weight: bold;
+}
+
+#answer {
+  margin-top:20%;
+}
