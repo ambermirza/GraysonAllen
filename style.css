@@ -1,11 +1,14 @@
 p {
   font-family: Arial, sans-serif;
   text-align: center;
-  color: #00009c;
-  font-weight: bold;
+  color: black;
 }
 
 #answer {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #00009c;
+  font-weight: bold;
   font-size: 120pt;
-  margin-top:20%;
+  margin-top: 15%;
 }
