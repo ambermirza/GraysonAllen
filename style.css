@@ -9,8 +9,19 @@ h1 {
   text-align: center;
   color: #00009c;
 }
-
+h2 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: black;
+}
 #answer {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30pt;
+  margin-top: 10%;
+}
+#yesno {
   font-family: Arial, sans-serif;
   text-align: center;
   font-weight: bold;
