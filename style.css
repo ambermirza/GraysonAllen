@@ -25,6 +25,12 @@
                 height: 30px;
                 width: 100%;
             } 
+            a.link {
+                color: black;
+            }
+            a.visited {
+                color: #00009c;
+            }
 /**html {
   height: 100%;
   box-sizing: border-box;
